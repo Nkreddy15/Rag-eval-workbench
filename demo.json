@@ -1,0 +1,306 @@
+{
+  "passages": [
+    {
+      "id": "P1",
+      "text": "The laser cutter certification is Laser Safety Level 2. Contact the evening supervisor for help."
+    },
+    {
+      "id": "P2",
+      "text": "The resin printer cleanup fluid is isopropyl alcohol. Contact the resin technician for help."
+    },
+    {
+      "id": "P3",
+      "text": "The wood lathe minimum stock length is 120 millimeters. Contact the woodshop lead for help."
+    },
+    {
+      "id": "P4",
+      "text": "The vinyl cutter maximum sheet width is 52 centimeters. Contact the print coordinator for help."
+    },
+    {
+      "id": "P5",
+      "text": "The embroidery machine approved needle is Size 75 embroidery needle. Contact the textile mentor for help."
+    },
+    {
+      "id": "P6",
+      "text": "The electronics bench solder temperature is 340 degrees Celsius. Contact the lab monitor for help."
+    },
+    {
+      "id": "P7",
+      "text": "The ceramic kiln cooldown duration is 18 hours. Contact the kiln operator for help."
+    },
+    {
+      "id": "P8",
+      "text": "The waterjet station booking limit is 90 minutes. Contact the fabrication manager for help."
+    },
+    {
+      "id": "P9",
+      "text": "The metal brake maximum sheet thickness is 2 millimeters. Contact the metals instructor for help."
+    },
+    {
+      "id": "P10",
+      "text": "The photo scanner image format is TIFF. Contact the media desk for help."
+    }
+  ],
+  "cases": [
+    {
+      "question": "What is the certification for the laser cutter?",
+      "expected_ids": [
+        "P1"
+      ],
+      "expected_phrase": "Laser Safety Level 2"
+    },
+    {
+      "question": "Who can assist with the laser cutter?",
+      "expected_ids": [
+        "P1"
+      ],
+      "expected_phrase": "evening supervisor"
+    },
+    {
+      "question": "Does the laser cutter have a documented certification? Give its value.",
+      "expected_ids": [
+        "P1"
+      ],
+      "expected_phrase": "Laser Safety Level 2"
+    },
+    {
+      "question": "How much does it cost to reserve the laser cutter?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the cleanup fluid for the resin printer?",
+      "expected_ids": [
+        "P2"
+      ],
+      "expected_phrase": "isopropyl alcohol"
+    },
+    {
+      "question": "Who can assist with the resin printer?",
+      "expected_ids": [
+        "P2"
+      ],
+      "expected_phrase": "resin technician"
+    },
+    {
+      "question": "Does the resin printer have a documented cleanup fluid? Give its value.",
+      "expected_ids": [
+        "P2"
+      ],
+      "expected_phrase": "isopropyl alcohol"
+    },
+    {
+      "question": "How much does it cost to reserve the resin printer?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the minimum stock length for the wood lathe?",
+      "expected_ids": [
+        "P3"
+      ],
+      "expected_phrase": "120 millimeters"
+    },
+    {
+      "question": "Who can assist with the wood lathe?",
+      "expected_ids": [
+        "P3"
+      ],
+      "expected_phrase": "woodshop lead"
+    },
+    {
+      "question": "Does the wood lathe have a documented minimum stock length? Give its value.",
+      "expected_ids": [
+        "P3"
+      ],
+      "expected_phrase": "120 millimeters"
+    },
+    {
+      "question": "How much does it cost to reserve the wood lathe?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the maximum sheet width for the vinyl cutter?",
+      "expected_ids": [
+        "P4"
+      ],
+      "expected_phrase": "52 centimeters"
+    },
+    {
+      "question": "Who can assist with the vinyl cutter?",
+      "expected_ids": [
+        "P4"
+      ],
+      "expected_phrase": "print coordinator"
+    },
+    {
+      "question": "Does the vinyl cutter have a documented maximum sheet width? Give its value.",
+      "expected_ids": [
+        "P4"
+      ],
+      "expected_phrase": "52 centimeters"
+    },
+    {
+      "question": "How much does it cost to reserve the vinyl cutter?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the approved needle for the embroidery machine?",
+      "expected_ids": [
+        "P5"
+      ],
+      "expected_phrase": "Size 75 embroidery needle"
+    },
+    {
+      "question": "Who can assist with the embroidery machine?",
+      "expected_ids": [
+        "P5"
+      ],
+      "expected_phrase": "textile mentor"
+    },
+    {
+      "question": "Does the embroidery machine have a documented approved needle? Give its value.",
+      "expected_ids": [
+        "P5"
+      ],
+      "expected_phrase": "Size 75 embroidery needle"
+    },
+    {
+      "question": "How much does it cost to reserve the embroidery machine?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the solder temperature for the electronics bench?",
+      "expected_ids": [
+        "P6"
+      ],
+      "expected_phrase": "340 degrees Celsius"
+    },
+    {
+      "question": "Who can assist with the electronics bench?",
+      "expected_ids": [
+        "P6"
+      ],
+      "expected_phrase": "lab monitor"
+    },
+    {
+      "question": "Does the electronics bench have a documented solder temperature? Give its value.",
+      "expected_ids": [
+        "P6"
+      ],
+      "expected_phrase": "340 degrees Celsius"
+    },
+    {
+      "question": "How much does it cost to reserve the electronics bench?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the cooldown duration for the ceramic kiln?",
+      "expected_ids": [
+        "P7"
+      ],
+      "expected_phrase": "18 hours"
+    },
+    {
+      "question": "Who can assist with the ceramic kiln?",
+      "expected_ids": [
+        "P7"
+      ],
+      "expected_phrase": "kiln operator"
+    },
+    {
+      "question": "Does the ceramic kiln have a documented cooldown duration? Give its value.",
+      "expected_ids": [
+        "P7"
+      ],
+      "expected_phrase": "18 hours"
+    },
+    {
+      "question": "How much does it cost to reserve the ceramic kiln?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the booking limit for the waterjet station?",
+      "expected_ids": [
+        "P8"
+      ],
+      "expected_phrase": "90 minutes"
+    },
+    {
+      "question": "Who can assist with the waterjet station?",
+      "expected_ids": [
+        "P8"
+      ],
+      "expected_phrase": "fabrication manager"
+    },
+    {
+      "question": "Does the waterjet station have a documented booking limit? Give its value.",
+      "expected_ids": [
+        "P8"
+      ],
+      "expected_phrase": "90 minutes"
+    },
+    {
+      "question": "How much does it cost to reserve the waterjet station?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the maximum sheet thickness for the metal brake?",
+      "expected_ids": [
+        "P9"
+      ],
+      "expected_phrase": "2 millimeters"
+    },
+    {
+      "question": "Who can assist with the metal brake?",
+      "expected_ids": [
+        "P9"
+      ],
+      "expected_phrase": "metals instructor"
+    },
+    {
+      "question": "Does the metal brake have a documented maximum sheet thickness? Give its value.",
+      "expected_ids": [
+        "P9"
+      ],
+      "expected_phrase": "2 millimeters"
+    },
+    {
+      "question": "How much does it cost to reserve the metal brake?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    },
+    {
+      "question": "What is the image format for the photo scanner?",
+      "expected_ids": [
+        "P10"
+      ],
+      "expected_phrase": "TIFF"
+    },
+    {
+      "question": "Who can assist with the photo scanner?",
+      "expected_ids": [
+        "P10"
+      ],
+      "expected_phrase": "media desk"
+    },
+    {
+      "question": "Does the photo scanner have a documented image format? Give its value.",
+      "expected_ids": [
+        "P10"
+      ],
+      "expected_phrase": "TIFF"
+    },
+    {
+      "question": "How much does it cost to reserve the photo scanner?",
+      "expected_ids": [],
+      "expected_phrase": ""
+    }
+  ]
+}
