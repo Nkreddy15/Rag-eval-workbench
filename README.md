@@ -6,6 +6,8 @@ document Q&A. Every answer is instructed to cite the passages it used.
 
 ## Run locally
 
+See [RUN.md](RUN.md) for copy-and-paste setup commands for macOS, Linux, and Windows, plus a smoke test.
+
 ```sh
 python -m venv .venv
 source .venv/bin/activate
